@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+openpyxl
+pandas
+numpy
+streamlit
+sqlalchemy
+matplotlib
+geopy
+plotly
+folium
+streamlit-folium
+psycopg2-binary
